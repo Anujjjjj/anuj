@@ -1,0 +1,26 @@
+<body>
+<b><h1>Image Store</h1></b>
+<center><h2> <hr width="100%" color="#ff0000" size="4" 
+/>welcome to Image Store </h2></hr></center>
+  <h2>red ballons - the most liked colour of baloon</h2>
+  <a href="https://www.google.com">
+        <img src="https://images.pexels.com/photos/6578479/pexels-photo-6578479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" width="10%" alt="Photo of a red ballon" >
+<p> Do you know!!   most the child or kid loves mostly red ballons only. as there are a lot of ballons of different colours but in a survey it was found that 86 child of every 100 child demands only for the red ballons. 
+</p>
+        <h2>Website underconstruction</h2>
+        <a href="https://www.google.com">
+              	<img src="https://image.shutterstock.com/z/stock-vector-illustration-of-website-under-construction-on-a-white-background-with-yellow-caution-symbol-2019099593.jpg" width="15%" alt="second pic of our website" >
+                <p> i am student of computer science engineering and i have made this website for my assignment purpose only . it is not fully completed website , as i started learning html . so our respected teacher has assigned a small project to go more close to html.
+                </p>
+                <h2>Squirrel</h2>
+                <a href="https://www.google.com"> 
+              	<img src="https://images.pexels.com/photos/3733006/pexels-photo-3733006.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"width="15%" alt= "it was a beutiful pic" >
+              	<img src="https://media.istockphoto.com/photos/m-eating-dont-bother-picture-id183798031" width="45%" alt="picture of a squarrel">
+                <p>i like squirrels, i dont know why but they are very good looking . do you know i used to see the squirrels every and each day when i am at my house. </p>
+                <h2>animations</h2>
+                <a href="https://www.google.com">
+              	<src img="https://media.istockphoto.com/photos/digital-eye-wave-lines-stock-background-stock-video-picture-id1226241649" width="40%"  alt="animated beautiful picture">
+              		<src img= "https://media.istockphoto.com/photos/abstract-background-wallpaper-picture-id952039286" width="45" alt="animated one" >
+              			<img src="https://media.istockphoto.com/vectors/abstract-modern-futuristic-geometric-background-abstract-design-for-vector-id1282931327" width="15%" alt="last picture of the page" >	
+</body>
+</html>
